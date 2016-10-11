@@ -16,12 +16,12 @@ This project implemented with raspberry pi 3. <br/>
 <p><a href="https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/rpi3/sdcard/stable/GetStartedStep1.htm">First install windows 10 IOT on raspberry pi board</a></p> 
 <br/> 
 Connect seven segment to the raspberry pi pins<br/> 
-<p><img src="https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/PINS.JPG" alt="" width="262" height="280" /></p><br/> 
-<p><img src="https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/1.jpg" alt="" width="262" height="280" /></p><br/> 
-<p><img src="https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/2.jpg" alt="" width="262" height="280" /></p><br/>
+![](https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/PINS.JPG)<br/> 
+![](https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/1.jpg)<br/> 
+![](https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/2.jpg)<br/>
 <br/> 
-Connect LCD to de Raspberry pi Boards<br/> 
+Connect LCD to de Raspberry pi Board<br/> 
 <p><a href="https://www.hackster.io/dotMorten/windowsiottouch-44af19">(More information about Touch &ndash; Enabled Interface for Windows IOT)</a></p><br/> 
 
 Deploy Application to the device<br/> 
-<p><img src="https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/3.jpg" width="262" height="280" /></p>
+![App](https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/3.jpg)
