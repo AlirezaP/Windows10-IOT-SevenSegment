@@ -2,7 +2,7 @@
 Simple Project For Windows 10 IOT - Seven Segment <br/> 
  
 This project implemented with raspberry pi 3. <br/> 
-<a href="https://www.hackster.io/Alirezap/windows-iot-sevensegment-61510c">HackSter
+<a href="https://www.hackster.io/Alirezap/windows-iot-sevensegment-61510c">HackSter</a>
 <br/> 
 <p><span style="font-family: Calibri; font-size: medium;">Hardware:</span></p> 
 <p><span style="font-size: medium;">&middot;</span><span style="font: 7pt 'Times New Roman'; margin: 0px; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family: Calibri; font-size: medium;">Raspberry pi 3</span></p> 
