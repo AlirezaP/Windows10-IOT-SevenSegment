@@ -17,7 +17,7 @@ This project implemented with raspberry pi 3. <br/>
 <p><a href="https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/rpi3/sdcard/stable/GetStartedStep1.htm">First install windows 10 IOT on raspberry pi board</a></p> 
 <br/> 
 Connect seven segment to the raspberry pi pins<br/> 
-![](https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/PINS.JPG)<br/> 
+<img src="https://halckemy.s3.amazonaws.com/uploads/attachments/208762/pinsMap.jpg"><br/> 
 ![](https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/1.jpg)<br/> 
 ![](https://raw.githubusercontent.com/AlirezaP/Windows10-IOT-SevenSegment/master/Doc/2.jpg)<br/>
 <br/> 
